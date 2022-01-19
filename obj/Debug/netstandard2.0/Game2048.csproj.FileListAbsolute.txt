@@ -1,0 +1,9 @@
+D:\Cod\2021 C# practice\2048\Game\Game2048\bin\Debug\netstandard2.0\Game2048.deps.json
+D:\Cod\2021 C# practice\2048\Game\Game2048\bin\Debug\netstandard2.0\Game2048.dll
+D:\Cod\2021 C# practice\2048\Game\Game2048\bin\Debug\netstandard2.0\Game2048.pdb
+D:\Cod\2021 C# practice\2048\Game\Game2048\obj\Debug\netstandard2.0\Game2048.csprojAssemblyReference.cache
+D:\Cod\2021 C# practice\2048\Game\Game2048\obj\Debug\netstandard2.0\Game2048.AssemblyInfoInputs.cache
+D:\Cod\2021 C# practice\2048\Game\Game2048\obj\Debug\netstandard2.0\Game2048.AssemblyInfo.cs
+D:\Cod\2021 C# practice\2048\Game\Game2048\obj\Debug\netstandard2.0\Game2048.csproj.CoreCompileInputs.cache
+D:\Cod\2021 C# practice\2048\Game\Game2048\obj\Debug\netstandard2.0\Game2048.dll
+D:\Cod\2021 C# practice\2048\Game\Game2048\obj\Debug\netstandard2.0\Game2048.pdb
